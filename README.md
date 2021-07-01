@@ -8,6 +8,10 @@ I'm mostly interested in learning about using GraphQL and in building a full sta
 Javascript application. I've built separate back- and front- ends using Node and React
 but never both for the same app!
 
+## Installation / Set Up
+
+
+
 ## Technologies
 
 - React
