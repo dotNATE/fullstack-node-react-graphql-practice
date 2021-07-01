@@ -1,4 +1,4 @@
-#Full Stack Node/React GraphQL Practice
+# Full Stack Node/React GraphQL Practice
 
 This is a personal project I'm working on in my spare time. I have a rough idea of having a
 React frontend that consumes a basic API in order to track the progress of my job search 
